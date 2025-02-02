@@ -48,3 +48,7 @@ L’utilisateur peut :
 - NumPy  
 - Matplotlib  
 - Tkinter  
+
+## Auteurs
+
+Ce projet a été réalisé en binome avec , **MACHTER Massinissa** [https://github.com/machterMassi06] dans le cadre de notre licence 2 **(2023/2024)** en cours de POO.
